@@ -1,0 +1,11 @@
+__pycache__
+.vscode
+data/**
+CLAUDE.md
+*.zip
+logs
+data
+models/
+*.log
+*.blg
+*.synctex.gz
